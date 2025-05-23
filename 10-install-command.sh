@@ -7,3 +7,6 @@ then
     echo "ERROR:: Please run this sscript with root accesss:"
 else "You are running with root access"
 fi
+
+
+dnf install mysql -y
