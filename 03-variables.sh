@@ -1,6 +1,6 @@
 #!/bn/bash
 
-PERSON1=Trump
+PERSON1=Modi
 PERSON2=Musk
 
 echo "$PERSON1: hey $PERSON2, How are you?"
